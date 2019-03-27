@@ -51,3 +51,5 @@
  #### [Charles问题之Windows10下抓取https包，出现unknown](https://www.jianshu.com/p/0c95595e928d)
  #### [在安卓手机上安装Charles证书](https://cosmeapp.github.io/2017/09/26/install-charles-certificate-android/)
  #### [网络协议-网络分层、TCP/UDP、TCP三次握手和四次挥手](https://www.cnblogs.com/liyiran/p/9102791.html)
+ ### java
+#### [java 内存模型](https://blog.csdn.net/javazejian/article/details/72772461)
