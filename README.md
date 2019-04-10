@@ -48,6 +48,7 @@
 #### [Android布局优化之ViewStub、include、merge使用与源码分析](https://blog.csdn.net/bboyfeiyu/article/details/45869393)
 #### [Android：Activity与Fragment通信(99%)完美解决方案](https://www.jianshu.com/p/1b824e26105b) 
 ### 工具
+#### [Source Insight 4.0 最简单的破解安装](https://blog.csdn.net/biubiuibiu/article/details/78044232)
  #### [Charles问题之Windows10下抓取https包，出现unknown](https://www.jianshu.com/p/0c95595e928d)
  #### [在安卓手机上安装Charles证书](https://cosmeapp.github.io/2017/09/26/install-charles-certificate-android/)
  #### [网络协议-网络分层、TCP/UDP、TCP三次握手和四次挥手](https://www.cnblogs.com/liyiran/p/9102791.html)
