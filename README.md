@@ -48,6 +48,7 @@
 #### [Android布局优化之ViewStub、include、merge使用与源码分析](https://blog.csdn.net/bboyfeiyu/article/details/45869393)
 #### [Android：Activity与Fragment通信(99%)完美解决方案](https://www.jianshu.com/p/1b824e26105b) 
 ### 工具
+#### [makedown 工具](https://typora.io/)
 #### [使用git将项目上传到github（最简单方法](https://www.cnblogs.com/cxk1995/p/5800196.html)
 #### [Source Insight 4.0 最简单的破解安装](https://blog.csdn.net/biubiuibiu/article/details/78044232)
  #### [Charles问题之Windows10下抓取https包，出现unknown](https://www.jianshu.com/p/0c95595e928d)
