@@ -59,3 +59,5 @@
 #### [java 内存模型](https://blog.csdn.net/javazejian/article/details/72772461)
 ### 开源库分析
 #### [OkHttp之ConnectInterceptor简单分析](https://blog.csdn.net/chunqiuwei/article/details/73350657)
+### Hashmap
+#### [HashMap？面试？我是谁？我在哪](http://www.importnew.com/31278.html)
