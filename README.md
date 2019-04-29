@@ -62,5 +62,6 @@
 ### Hashmap
 #### [HashMap？面试？我是谁？我在哪](http://www.importnew.com/31278.html)
 #### [Java 8系列之重新认识HashMap](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+#### [Java HashMap Interview Questions](http://www.codespaghetti.com/java-hashmap-interview-questions/)
 ### 网络
 #### [TCP为什么是四次挥手，而不是三次？](https://www.zhihu.com/question/63264012)
