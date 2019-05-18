@@ -57,6 +57,7 @@
  #### [网络协议-网络分层、TCP/UDP、TCP三次握手和四次挥手](https://www.cnblogs.com/liyiran/p/9102791.html)
  ### java
 #### [java 内存模型](https://blog.csdn.net/javazejian/article/details/72772461)
+#### [如何理解 String 类型值的不可变？](https://www.zhihu.com/question/20618891)
 ### 开源库分析
 #### [OkHttp之ConnectInterceptor简单分析](https://blog.csdn.net/chunqiuwei/article/details/73350657)
 ### Hashmap
@@ -65,3 +66,5 @@
 #### [Java HashMap Interview Questions](http://www.codespaghetti.com/java-hashmap-interview-questions/)
 ### 网络
 #### [TCP为什么是四次挥手，而不是三次？](https://www.zhihu.com/question/63264012)
+### 问题
+#### [dialog不能充满横屏以及下边有间隔](https://blog.csdn.net/sinat_29874521/article/details/52814483)
